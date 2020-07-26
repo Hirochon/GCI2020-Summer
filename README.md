@@ -51,7 +51,7 @@
 - つまり楽しかった！笑
 
 
-#### [おらの第一回コンペ解法(6th place solution)]()
+#### [おらの第一回コンペ解法(6th place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition1/README.md)
 #### [おらの第二回コンペ解法(3rd place solution)]()
 #### [おらの第三回コンペ解法(結果待ち)]()
 
