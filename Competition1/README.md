@@ -5,6 +5,11 @@
 #### 順位: 6位
 #### Public LB: 3位, Kaggle LB: Top2%
 
+## Model
+- XGBoost Single Model
+- 数値はそのまま。カテゴリ変数はOHE。
+- https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition1/Best_model.ipynb
+
 ## やったこと
 
 - EDA
