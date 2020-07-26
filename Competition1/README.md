@@ -1,4 +1,6 @@
 # “Titanic: Machine Learning from Disaster” from Kaggle
+> https://www.kaggle.com/c/titanic
+
 第一回コンペはKaggleのTitanicコンペ。一度チュートリアルとしてやったことはあったけれど、しっかりやる日が来るとはっっ。そんな心持ちで始めたのを覚えてます！
 
 ## 結果
