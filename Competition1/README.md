@@ -5,7 +5,7 @@
 
 ## 結果
 #### 順位: 6位
-#### Public LB: 3位, Kaggle LB: Top2%
+#### Private LB: 0.825, Public LB: 0.823, Kaggle LB: 0.83253(Top2%)
 
 ## Model
 - XGBoost Single Model
