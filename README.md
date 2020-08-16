@@ -23,13 +23,13 @@
 - つまり楽しかった！笑
 - ニートに劣らないくらいの時間があったので、鬼のようなcommitが実って、すべてのコンペで入賞を果たすことが出来ました！！
 
-### 第1回Competition(Kaggle: Titanic): 6位:sparkles:
+### 第1回Competition(Kaggle: Titanic): 6位:sparkles: / 335人中
 #### [おらの第一回コンペ解法(6th place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition1/README.md)
 
-### 第2回Competition(Kaggle: Home Credit): 3位:tada:
+### 第2回Competition(Kaggle: Home Credit): 3位:tada: / 261人中
 #### [おらの第二回コンペ解法(3rd place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition2/README.md)
 
-### 第3回Competition(Demand Forecast): 3位:tada:
+### 第3回Competition(Demand Forecast): 3位:tada: / 216人中
 #### [おらの第三回コンペ解法(3rd place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition3/README.md)
 
 ### 最終課題について
