@@ -31,6 +31,7 @@
 
 ## 考えた事業モデルについて
 **🔻コチラのPDFを見ていただくのが一番手っ取り早いです(そのためのスライドだよね！笑)**
+
 https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/AIを用いた融資の改善案について.pdf
 
 ### スライドとしてのポイントは5つくらいあります
@@ -50,8 +51,19 @@ https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/AIを用いた�
   5. おまけの情報
   6. 行動喚起
 
-### モデルの解説
-
+### 前処理&モデルの解説
+**既存より優れた融資額提案モデルを作る!!**
+1. Kaggleでダウンロードできるデータ(applicationのみ)を使用
+2. データの中でもdefaultかどうか(TARGET=0or1)で分割
+3. defaultしないデータ(TARGET=0)を学習データとして扱う(TARGETとAMT_CREDITはdrop)
+4. defaultしなかったデータ(約25000件)を取り出して、defaultしたデータ(約25000件)と結合し、テストデータを作成
+5. `3`の学習データを使って、以下モデルで学習
+  - 5fold, stratifiedKFold
+  - LightGBM Single Model(LGBMRegressor)
+6. テストデータで予測した
+  - defaultした人への融資額がだけしっかりと減額していた。
+  - defaultしなかった人への融資額の変動はとても小さかった
+7. 損失が減る！！
 
 ## やったこと(時系列順に記述)
 ### 1. データ探索
