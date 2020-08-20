@@ -96,6 +96,7 @@ https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/AIを用いた�
 - 建築関係で働いている兄に相談したくらいガチで行けると思った。
 - もう打てるて無いじゃん…
 - どうせ誰にも見られてない意識あるので、メモをおいていきますw
+- [家ランク作戦のメモはコチラ](https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/application_house_description.txt)
 
 ### 4. シンプルに金と直結してる融資額をどうにかする方向性でいく！
 **4-1. どうにかなにかないか！？**
@@ -108,6 +109,7 @@ https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/AIを用いた�
 - どうやってスライド作るか。どうやって提案するかは置いといて、第1関門はクリアできました。
 - でもめっちゃここで終わりたくなる。つらみ。
 - 今までやりきったことがあまりなかったので、頑張る。その形跡メモもあるので、誰も見てないだろうと決め込んで(2回目)置いとくw
+- [最終的な作戦メモはコチラ](https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/application_amt_credit.txt)
 
 ### 5. ヤバ最難関過ぎたスライド作成
 **5-1. スライド構成どうしたらいいかのか分からなすぎる**
@@ -118,6 +120,7 @@ https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/AIを用いた�
 - めっっっっっちゃググった。伝え方に色んな法則あるんだね。情報量すごい。
 - とりあえず流れを決めないと作るものも作れないので、タイトルのみのスライド作成
 - どうせ誰にも見られないだろうと決め込んで(3回目)メモもおいていきますw
+- [スライド構成メッチャググったメモはコチラ](https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/%E4%BC%9D%E3%82%8F%E3%82%8A%E3%81%9D%E3%81%86%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E6%A7%8B%E6%88%90%E3%82%92%E3%82%B0%E3%82%B0%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F.txt)
 
 **5-3. 中身を作っていく**
 - **恐らくどの工程よりも時間がかかりました**
