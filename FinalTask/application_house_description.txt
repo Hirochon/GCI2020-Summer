@@ -1,0 +1,39 @@
+★ APARTMENTS ★
+    - アパートのランクかな…？(わからん)
+    - 0.1付近が多め
+    - 0あたりが一定数いて、0.1で急上昇、その後指数的に減少していく
+
+★ BASEMENTAREA ★
+    - ベースのとなる土地のランクかな…？(わからん)
+    - 0.1付近が一番多い、0付近が次に多い。
+    - 0と0.1の間は凹む。0.1以降は指数的に減少していく。
+
+★ YEARS_BEGINEXPLUATATION(たぶんexplanationかなぁ…？) ★
+    - 
+
+★ WALLSMATERIAL ★
+    - 家の壁の材質
+
+    - Stone, Brick (石、レンガ): レンガ、石貼り
+    - Block (ブロック): コンクリートブロック
+    - Panel (パネル, 板): 化粧パネル
+    - Mixed (混在): いろんなの
+    - Wooden (木): 木、フローリング
+    - Monolithic (一枚岩): コンクリート
+
+    兄的推論で順位付けしてみた。
+    1. Stone
+    2. Brick
+    3. Block
+    4. Wooden
+    5. Monolithic
+    ext. panelとmixはピンキリ
+
+    上記結果からひろち的推論で順位付けを行った！
+    1. Stone, Brick: 0.60
+    2. Block: 0.55
+    3. Mixed: 0.55
+    5. Monolithic: 0.50
+    4. Wooden: 0.45
+    6. Panel: 0.45
+    7. Others: 0.45
