@@ -2,20 +2,18 @@
 リンク: https://gci.t.u-tokyo.ac.jp/gci-2020-summer/
 
 ## このリポジトリについて
-東京大学の松尾研究室が主催するこの講座にて僕が学んできたことや、コンペでの取り組みをまとめていきます。
-
-期間としては3~4ヶ月てところです。
+東京大学の松尾研究室が主催するこの東京大学グローバル消費インテリジェンス寄附講座(GCI2020Summer)にて僕が学んできたことや、コンペでの取り組みをまとめていきます。
 
 ## 軽く活動を振り返り
 ### 始める前の状況
-- 参加する前はKaggleのチュートリアル的存在であるTitanicを提出したことがある(理解しているとは言ってないw)
+- 参加する前はKaggleのチュートリアル的存在であるTitanicを提出したことがある(書いてるコードを理解したとは言ってない笑)
 - 一度Qiitaにアヤメの分類について記事を書いた([リンクはコチラ](https://qiita.com/Hirochon/items/12379d7ca6141f1fb6fa))
-- 初心者向けの講座(?)なので、事前にPythonをある程度触っていたこともあり、他の受講生に比べると少し有利な状況で始められた。(僕が初心者として参加していたなら挫折してたと思う)
+- 初心者向けの講座(ではなかった。)ですが、**数学的要素も多く、終始膨大な内容の講義やコンペにとても苦戦しました**。
 
 ### 講座の内容について
 - Python,Numpy,Pandas,Matplotlibなどの基礎的な部分から、予測モデル作成、チューニング、特徴量エンジニアリングまで幅広く網羅していた。
 - 一部の演習問題で発展的な問題も出てきていた。
-- そんな発展的な問題を解くための使い方や知識を短期間で求められたので、時間を確保できない/事前知識がないと、とても困難な講座であったと思う。
+- そんな発展的な問題を解くための使い方や知識を短期間で求められたので、時間を確保できない/そこそこの事前知識がないと、とても困難な講座であったと思う。
 
 ### コンペについて
 - Kaggleで一度開催されいたコンペや独自ルート(?)のデータが用いられた。
@@ -23,19 +21,27 @@
 - つまり楽しかった！笑
 - ニートに劣らないくらいの時間があったので、鬼のようなcommitが実って、すべてのコンペで入賞を果たすことが出来ました！！
 
-### 第1回Competition(Kaggle: Titanic): 6位:sparkles: / 335人中
-#### [オラの第一回コンペ解法(6th place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition1/README.md)
+### 全体を通しての感想
+- 期間としては3〜4ヶ月程度。まるまる大学の前期という膨大な期間。**これで無料とか神講座かよ！！**
+- 本当に膨大な時間をこの講座対価に費やしました！この講座で1、2を争うんじゃないかってくらい時間を費やしてました。
+- そして**優秀者に選ばれた**時に、【**目標を設定し、やりきるという一連の行動を本気でやりきれた**】という実感が湧いてきて、生涯忘れられない期間になったんじゃないかと思います。
 
-### 第2回Competition(Kaggle: Home Credit): 3位:tada: / 261人中
-#### [オラの第二回コンペ解法(3rd place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition2/README.md)
+### コンペの順位や解法、最終課題について
+以下リンクにてそれぞれのコンペの解法や、過程などを詳しく掲載しております。
 
-### 第3回Competition(Demand Forecast): 3位:tada: / 216人中
-#### [オラの第三回コンペ解法(3rd place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition3/README.md)
+#### 第1回Competition(Kaggle: Titanic): 6位:sparkles: / 335人中
+##### [オラの第一回コンペ解法(6th place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition1/README.md)
 
-### 最終課題: 結果待ち
-#### [集大成すぎた最終課題まとめ](https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/README.md)
+#### 第2回Competition(Kaggle: Home Credit): 3位:tada: / 261人中
+##### [オラの第二回コンペ解法(3rd place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition2/README.md)
 
-## 講座の概要(ほぼ引用)
+#### 第3回Competition(Demand Forecast): 3位:tada: / 216人中
+##### [オラの第三回コンペ解法(3rd place solution)](https://github.com/Hirochon/GCI2020-Summer/blob/master/Competition3/README.md)
+
+#### 最終課題: 優秀者に選ばれました！ :satisfied:
+##### [集大成！〜最終課題への過程と回答〜](https://github.com/Hirochon/GCI2020-Summer/blob/master/FinalTask/README.md)
+
+## 講座の概要(サイトから引用)
 
 > 1. コースの概要
 >   - 大量のデータを自由自在に解析・分析し、隠れた関係性を発見する。そんなスキルを身につけた「データサイエンティスト」に対する需要は、工学分野だけならず、医療・経済・経営・ライフサイエンスなど非常に多くの分野で高まる一方。
